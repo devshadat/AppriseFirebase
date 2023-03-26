@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239738393648",
+    "project_id": "apprisefirebase",
+    "storage_bucket": "apprisefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239738393648:android:41dbf9dd103dd42c2549f5",
+        "android_client_info": {
+          "package_name": "com.devshadat.apprisefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239738393648-j07qvvmb13jp2a25l9roap21r32u11aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHkPEyAxHjb-KsltrVm-4KfzeFZoEBTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239738393648-j07qvvmb13jp2a25l9roap21r32u11aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
